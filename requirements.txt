@@ -1,0 +1,6 @@
+tensorflow
+streamlit
+numpy
+matplotlib
+seaborn
+Pillow # This is the PIL library
